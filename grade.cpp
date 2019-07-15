@@ -22,7 +22,7 @@ else if ((score>69.50)&&(score<79.50)) {
 else if ((score>59.50)&&(score<69.50)) {
 	cout<<"Grade : D "<<endl;
 }
-else if  ((score>-1&&score<59.50))  {
+else if  ((score>-1)&&(score<59.50))  {
 	cout<<"Grade : F "<<endl;
 }
 else {
